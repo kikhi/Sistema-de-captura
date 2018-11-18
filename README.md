@@ -1,9 +1,13 @@
 # Programa de captura
-Programa realizado con el lenguaje de c# el cual tiene como finalidad hacer sistematica la captura de datos de una orden de serbvicio.
+Programa para capturas digitales, haciendo más rápido el proceso de papeleo y almacenamiento al virtualizarlo.
 
 ![](Capture.PNG)
 
-# Caracteristicas
-Cuanta con la opcion de insertar una firma electronica y esta diseñada para poder conectarse a base de datos o imprimir en PDF mediante una extencion.
+# Notas
+-Cuenta con captura de firma electronica
+
+-Se actualiza la fecha automaticamente
+
+-Planeado para almacenamiento en base de datos o extensión a comprobante PDF.
 
 ![](Capture2.PNG)
